@@ -9,4 +9,4 @@
 
 ## Unity Projects
 ### Group Projects
-#### [Buddy Blasters](https://github.com/OwenFahringer/BuddyBlasters)
+#### [Buddy Blasters]([https://github.com/OwenFahringer/BuddyBlasters](https://github.com/OwenFahringer/Buddy-Blaster))
