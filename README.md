@@ -3,9 +3,11 @@
 ## Accounts
 #### [LeetCode Profile](https://leetcode.com/u/Owen_F/)
 
-## Java projects
+## Java Projects
 
-## Swift projects
+## Swift Projects
+### Solo Projects
+#### [Currency Converter](https://github.com/OwenFahringer/CurrencyExchange)
 
 ## Unity Projects
 ### Group Projects
