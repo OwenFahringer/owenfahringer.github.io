@@ -8,7 +8,7 @@
 ## Swift Projects
 ### Solo Projects
 #### [Currency Converter](https://github.com/OwenFahringer/CurrencyExchange)
-#### [CBattleship](https://github.com/OwenFahringer/BattleShip)
+#### [Battleship](https://github.com/OwenFahringer/BattleShip)
 
 ## Unity Projects
 ### Group Projects
